@@ -1,3 +1,3 @@
 #### Conversor de temperatura em Javascript
 
-Atividade avaliativa para sala de aula.
+Primeira atividade em javascript.
